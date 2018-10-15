@@ -27,4 +27,4 @@
 /config/master.key
 
 #Ignore my secret keys
-/app/controllers/blogs_controllers.rb
+/app/controllers/blogs_controller.rb
