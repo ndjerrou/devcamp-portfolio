@@ -26,5 +26,3 @@
 # Ignore master key for decrypting credentials and more.
 /config/master.key
 
-#Ignore my secret keys
-/app/controllers/blogs_controller.rb
