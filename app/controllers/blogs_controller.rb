@@ -37,6 +37,9 @@ class BlogsController < ApplicationController
     end
   end
 
+
+
+
   # PATCH/PUT /blogs/1
   # PATCH/PUT /blogs/1.json
   def update
