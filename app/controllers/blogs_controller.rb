@@ -37,7 +37,7 @@ class BlogsController < ApplicationController
     end
   end
 
-
+salut ça va ?
 
 
   # PATCH/PUT /blogs/1
