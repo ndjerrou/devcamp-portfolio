@@ -37,9 +37,6 @@ class BlogsController < ApplicationController
     end
   end
 
-salut ça va ? moi je vais bien et toi?
-ça va hamdoulillah bârak allahu fik  
-
   # PATCH/PUT /blogs/1
   # PATCH/PUT /blogs/1.json
   def update
