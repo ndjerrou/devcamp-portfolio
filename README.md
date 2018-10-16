@@ -1,4 +1,4 @@
-#Dev Camp Portfolio
+# Dev Camp Portfolio
 
 > This is a Ruby on rails 5 application that allows users to create their own portfolio
 
@@ -15,3 +15,6 @@
 def mygreat_method
 	puts "here it is"
 end
+
+```javascript
+alert('Hi there');
